@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.nav_bar{
+  list-style-type: none;
+  display: inline;
+}
+.bars{
+  display: inline;
+  margin: 10px;
+  
+}
+.pagename{
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.textt{
+  display: flex;
+  margin: 20px;
+  margin-top: 40px;
+  align-items: center;
+  justify-content: center;
+}
+.texttarea{
+  width: 800px;
+  resize: none;
+}
