@@ -9,9 +9,9 @@ export default function Navbar(props) {
           <span className="ml-3 text-xl">GPower</span>
         </a>
         <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
-          <a className="mr-5 hover:text-gray-900" href='/'>Home</a>
-          <a className="mr-5 hover:text-gray-900" href='/'>About</a>
-          <a className="mr-5 hover:text-gray-900" href='/'>Info</a>
+          <a className="mr-5 hover:text-green-600" href='/'>Home</a>
+          <a className="mr-5 hover:text-green-600" href='/'>About</a>
+          <a className="mr-5 text-green-500 hover:text-green-600" href='/'>TextEditor</a>
         </nav>
 
 
